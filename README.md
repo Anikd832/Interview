@@ -3,7 +3,9 @@ Getting Started with the Project
 Follow these steps to set up and run the project locally:
 
 Steps to Run the Project
+
 	1. Clone the project repository to your local machine.
+    
 	2. Navigate to the project directory and set up the environment variables in the .env file (e.g., database credentials).
 	Run the following commands to migrate the database and seed it with initial data:
 
@@ -12,7 +14,7 @@ Steps to Run the Project
 		
 		This will create the necessary database tables and insert initial data.
 
-	3. Navigate to the project directory and run the following command to start the development server:
+	3.Run the following command to start the development server:
 		php artisan serve  
 
 Open your browser and visit the provided URL (e.g., http://127.0.0.1:8000) to access the login page.
