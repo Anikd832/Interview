@@ -5,7 +5,7 @@ Follow these steps to set up and run the project locally:
 Steps to Run the Project
 
 	1. Clone the project repository to your local machine.
-    
+
 	2. Navigate to the project directory and set up the environment variables in the .env file (e.g., database credentials).
 	Run the following commands to migrate the database and seed it with initial data:
 
@@ -20,7 +20,9 @@ Steps to Run the Project
 Open your browser and visit the provided URL (e.g., http://127.0.0.1:8000) to access the login page.
 
 Login Credentials
+
 	1. Email: admin@gmail.com
+    
 	2. Password: password
 
 Features
